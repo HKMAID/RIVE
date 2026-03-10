@@ -1,3 +1,5 @@
 # JEU_RIVE
-Logic game using C language;
-jeu_riv.c : Source code.
+Logic game using C language
+
+# Code source
+Le fichier jeu_riv.c
