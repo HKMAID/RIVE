@@ -1,2 +1,0 @@
-# Code source
-rive.c
